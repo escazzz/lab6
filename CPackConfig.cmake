@@ -1,6 +1,6 @@
 include(InstallRequiredSystemLibraries)
 
-set(CPACK_PACKAGE_CONTACT zxcsfabuser777@mail.com)
+set(CPACK_PACKAGE_CONTACT zxcsfabuser777@gmail.com)
 set(CPACK_PACKAGE_VERSION ${PRINT_VERSION})
 set(CPACK_PACKAGE_NAME "solverapp")
 set(CPACK_PACKAGE_DESCRIPTION_FILE ${CMAKE_CURRENT_SOURCE_DIR}/DESCRIPTION)
