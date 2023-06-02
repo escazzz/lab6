@@ -4,7 +4,7 @@ project(solver)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
+asdasd
 add_executable(solver solver_application/equation.cpp)
 
 add_library(solver_lib STATIC ${CMAKE_CURRENT_SOURCE_DIR}/solver_lib/solver.cpp)
